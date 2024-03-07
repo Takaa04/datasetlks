@@ -1,0 +1,121 @@
+no;provinsi;kabupaten_kota;kecamatan;jenis_populasi_unggas;jumlah_dalam_ekor
+1;Jawa Timur;Probolinggo;Sumber;Ayam Buras;5301
+2;Jawa Timur;Probolinggo;Sumber;Ayam Ras Petelur;0
+3;Jawa Timur;Probolinggo;Sumber;Ayam Ras Pedaging;0
+4;Jawa Timur;Probolinggo;Sumber;Itik;27
+5;Jawa Timur;Probolinggo;Sumber;Entok;270
+6;Jawa Timur;Probolinggo;Kuripan;Ayam Buras;7049
+7;Jawa Timur;Probolinggo;Kuripan;Ayam Ras Petelur;3200
+8;Jawa Timur;Probolinggo;Kuripan;Ayam Ras Pedaging;23000
+9;Jawa Timur;Probolinggo;Kuripan;Itik;70
+10;Jawa Timur;Probolinggo;Kuripan;Entok;913
+11;Jawa Timur;Probolinggo;Tongas;Ayam Buras;24268
+12;Jawa Timur;Probolinggo;Tongas;Ayam Ras Petelur;2080
+13;Jawa Timur;Probolinggo;Tongas;Ayam Ras Pedaging;278500
+14;Jawa Timur;Probolinggo;Tongas;Itik;500
+15;Jawa Timur;Probolinggo;Tongas;Entok;201
+16;Jawa Timur;Probolinggo;Sukapura;Ayam Buras;5204
+17;Jawa Timur;Probolinggo;Sukapura;Ayam Ras Petelur;5000
+18;Jawa Timur;Probolinggo;Sukapura;Ayam Ras Pedaging;20000
+19;Jawa Timur;Probolinggo;Sukapura;Itik;0
+20;Jawa Timur;Probolinggo;Sukapura;Entok;998
+21;Jawa Timur;Probolinggo;Gending;Ayam Buras;8387
+22;Jawa Timur;Probolinggo;Gending;Ayam Ras Petelur;250
+23;Jawa Timur;Probolinggo;Gending;Ayam Ras Pedaging;484000
+24;Jawa Timur;Probolinggo;Gending;Itik;11000
+25;Jawa Timur;Probolinggo;Gending;Entok;259
+26;Jawa Timur;Probolinggo;Tiris;Ayam Buras;53300
+27;Jawa Timur;Probolinggo;Tiris;Ayam Ras Petelur;0
+28;Jawa Timur;Probolinggo;Tiris;Ayam Ras Pedaging;181780
+29;Jawa Timur;Probolinggo;Tiris;Itik;4659
+30;Jawa Timur;Probolinggo;Tiris;Entok;1515
+31;Jawa Timur;Probolinggo;Pakuniran;Ayam Buras;53876
+32;Jawa Timur;Probolinggo;Pakuniran;Ayam Ras Petelur;0
+33;Jawa Timur;Probolinggo;Pakuniran;Ayam Ras Pedaging;0
+34;Jawa Timur;Probolinggo;Pakuniran;Itik;2976
+35;Jawa Timur;Probolinggo;Pakuniran;Entok;65
+36;Jawa Timur;Probolinggo;Leces;Ayam Buras;6441
+37;Jawa Timur;Probolinggo;Leces;Ayam Ras Petelur;14200
+38;Jawa Timur;Probolinggo;Leces;Ayam Ras Pedaging;35000
+39;Jawa Timur;Probolinggo;Leces;Itik;580
+40;Jawa Timur;Probolinggo;Leces;Entok;1660
+41;Jawa Timur;Probolinggo;Bantaran;Ayam Buras;11130
+42;Jawa Timur;Probolinggo;Bantaran;Ayam Ras Petelur;17000
+43;Jawa Timur;Probolinggo;Bantaran;Ayam Ras Pedaging;146000
+44;Jawa Timur;Probolinggo;Bantaran;Itik;0
+45;Jawa Timur;Probolinggo;Bantaran;Entok;653
+46;Jawa Timur;Probolinggo;Gading;Ayam Buras;102516
+47;Jawa Timur;Probolinggo;Gading;Ayam Ras Petelur;4414
+48;Jawa Timur;Probolinggo;Gading;Ayam Ras Pedaging;401396
+49;Jawa Timur;Probolinggo;Gading;Itik;24247
+50;Jawa Timur;Probolinggo;Gading;Entok;0
+51;Jawa Timur;Probolinggo;Krejengan;Ayam Buras;30700
+52;Jawa Timur;Probolinggo;Krejengan;Ayam Ras Petelur;4400
+53;Jawa Timur;Probolinggo;Krejengan;Ayam Ras Pedaging;48000
+54;Jawa Timur;Probolinggo;Krejengan;Itik;2280
+55;Jawa Timur;Probolinggo;Krejengan;Entok;168
+56;Jawa Timur;Probolinggo;Lumbang;Ayam Buras;30627
+57;Jawa Timur;Probolinggo;Lumbang;Ayam Ras Petelur;10289
+58;Jawa Timur;Probolinggo;Lumbang;Ayam Ras Pedaging;75850
+59;Jawa Timur;Probolinggo;Lumbang;Itik;2781
+60;Jawa Timur;Probolinggo;Lumbang;Entok;2921
+61;Jawa Timur;Probolinggo;Dringu;Ayam Buras;28750
+62;Jawa Timur;Probolinggo;Dringu;Ayam Ras Petelur;1500
+63;Jawa Timur;Probolinggo;Dringu;Ayam Ras Pedaging;161700
+64;Jawa Timur;Probolinggo;Dringu;Itik;5700
+65;Jawa Timur;Probolinggo;Dringu;Entok;504
+66;Jawa Timur;Probolinggo;Maron;Ayam Buras;9360
+67;Jawa Timur;Probolinggo;Maron;Ayam Ras Petelur;100
+68;Jawa Timur;Probolinggo;Maron;Ayam Ras Pedaging;338000
+69;Jawa Timur;Probolinggo;Maron;Itik;4620
+70;Jawa Timur;Probolinggo;Maron;Entok;795
+71;Jawa Timur;Probolinggo;Tegalsiwalan;Ayam Buras;1383
+72;Jawa Timur;Probolinggo;Tegalsiwalan;Ayam Ras Petelur;342
+73;Jawa Timur;Probolinggo;Tegalsiwalan;Ayam Ras Pedaging;1086000
+74;Jawa Timur;Probolinggo;Tegalsiwalan;Itik;3655
+75;Jawa Timur;Probolinggo;Tegalsiwalan;Entok;17
+76;Jawa Timur;Probolinggo;Kraksaan;Ayam Buras;56933
+77;Jawa Timur;Probolinggo;Kraksaan;Ayam Ras Petelur;3160
+78;Jawa Timur;Probolinggo;Kraksaan;Ayam Ras Pedaging;679600
+79;Jawa Timur;Probolinggo;Kraksaan;Itik;10045
+80;Jawa Timur;Probolinggo;Kraksaan;Entok;66
+81;Jawa Timur;Probolinggo;Pajarakan;Ayam Buras;26360
+82;Jawa Timur;Probolinggo;Pajarakan;Ayam Ras Petelur;4750
+83;Jawa Timur;Probolinggo;Pajarakan;Ayam Ras Pedaging;80000
+84;Jawa Timur;Probolinggo;Pajarakan;Itik;8650
+85;Jawa Timur;Probolinggo;Pajarakan;Entok;181
+86;Jawa Timur;Probolinggo;Paiton;Ayam Buras;98372
+87;Jawa Timur;Probolinggo;Paiton;Ayam Ras Petelur;4760
+88;Jawa Timur;Probolinggo;Paiton;Ayam Ras Pedaging;120000
+89;Jawa Timur;Probolinggo;Paiton;Itik;8932
+90;Jawa Timur;Probolinggo;Paiton;Entok;2961
+91;Jawa Timur;Probolinggo;Kotaanyar;Ayam Buras;44108
+92;Jawa Timur;Probolinggo;Kotaanyar;Ayam Ras Petelur;500
+93;Jawa Timur;Probolinggo;Kotaanyar;Ayam Ras Pedaging;80000
+94;Jawa Timur;Probolinggo;Kotaanyar;Itik;5871
+95;Jawa Timur;Probolinggo;Kotaanyar;Entok;1024
+96;Jawa Timur;Probolinggo;Wonomerto;Ayam Buras;49173
+97;Jawa Timur;Probolinggo;Wonomerto;Ayam Ras Petelur;5650
+98;Jawa Timur;Probolinggo;Wonomerto;Ayam Ras Pedaging;80450
+99;Jawa Timur;Probolinggo;Wonomerto;Itik;1257
+100;Jawa Timur;Probolinggo;Wonomerto;Entok;1197
+101;Jawa Timur;Probolinggo;Sumberasih;Ayam Buras;0
+102;Jawa Timur;Probolinggo;Sumberasih;Ayam Ras Petelur;1350
+103;Jawa Timur;Probolinggo;Sumberasih;Ayam Ras Pedaging;213000
+104;Jawa Timur;Probolinggo;Sumberasih;Itik;800
+105;Jawa Timur;Probolinggo;Sumberasih;Entok;0
+106;Jawa Timur;Probolinggo;Krucil;Ayam Buras;5115
+107;Jawa Timur;Probolinggo;Krucil;Ayam Ras Petelur;0
+108;Jawa Timur;Probolinggo;Krucil;Ayam Ras Pedaging;8000
+109;Jawa Timur;Probolinggo;Krucil;Itik;0
+110;Jawa Timur;Probolinggo;Krucil;Entok;650
+111;Jawa Timur;Probolinggo;Besuk;Ayam Buras;17287
+112;Jawa Timur;Probolinggo;Besuk;Ayam Ras Petelur;0
+113;Jawa Timur;Probolinggo;Besuk;Ayam Ras Pedaging;108000
+114;Jawa Timur;Probolinggo;Besuk;Itik;678
+115;Jawa Timur;Probolinggo;Besuk;Entok;324
+116;Jawa Timur;Probolinggo;Banyuanyar;Ayam Buras;3297
+117;Jawa Timur;Probolinggo;Banyuanyar;Ayam Ras Petelur;625
+118;Jawa Timur;Probolinggo;Banyuanyar;Ayam Ras Pedaging;26700
+119;Jawa Timur;Probolinggo;Banyuanyar;Itik;475
+120;Jawa Timur;Probolinggo;Banyuanyar;Entok;25
